@@ -8,11 +8,11 @@
 </head>
 
 <body>
-<div id="app">
+  <div id="app">
+    <div id="app-vue"></div>
+  </div>
+  
 
- <helloworld></helloworld>
-<testcard message="Regreso al Futuro"></testcard>
-</div>
   <script type=text/javascript src="http://localhost:8080/app.js"></script>
 </body>
 
